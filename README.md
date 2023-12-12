@@ -1,1 +1,1 @@
-# bg--website-project
+# bg-website-project
